@@ -1,4 +1,4 @@
-Flaskr
+Flaskr Jonathan Casas DAMW1
 ======
 
 The basic blog app built in the Flask `tutorial`_.
@@ -66,3 +66,6 @@ Run with coverage report::
     $ coverage run -m pytest
     $ coverage report
     $ coverage html  # open htmlcov/index.html in a browser
+
+
+Joanthan Casas ha estado aquí
